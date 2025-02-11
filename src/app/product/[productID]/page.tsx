@@ -6,7 +6,7 @@ import ProductDetailView from '@/views/ProductDetailView';
 
 // COMPONENTE de R Dinámica Anidada. accesible con /product/cualquierCosa. Se tipa el FC y se declara que recibe <>
 const ProductDetail: React.FC <{params: {productID: string}}> = async({ params }) => {
-    const {productID} = await params
+    const {productID} = params
     const product = await getProductsDBById(productID)
     // console.log(product);
     return (
