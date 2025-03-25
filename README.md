@@ -1,3 +1,9 @@
+ESTE ES UN DEPLOY hecho desde otra cuenta debido a problemas técnicos con el computador.
+Este deploy tiene problemas con la conexión a back.
+Se está trabajando en el deploy 2 (hoy martes 25-03-25)
+En las próximas horas se subirá el deploy sin errores. 
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
